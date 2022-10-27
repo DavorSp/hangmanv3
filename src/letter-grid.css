@@ -1,0 +1,7 @@
+.letter-cont {
+  display: flex;
+  flex-direction: row;
+  font-size: 28px;
+  text-align: center;
+  line-height: 40px;
+}

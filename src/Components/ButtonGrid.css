@@ -1,0 +1,14 @@
+.grid-cont {
+  width: 75%;
+  height: 250px;
+  display: flex;
+  row-gap: 40px;
+  column-gap: 40px;
+  flex-wrap: wrap;
+  border: 1px solid black;
+  justify-content: center;
+  align-content: center;
+  margin-top: 50px;
+  justify-self: center;
+  align-self: center;
+}

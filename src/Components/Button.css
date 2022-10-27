@@ -1,0 +1,18 @@
+.btnclass:hover {
+  background-color: lightgray;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  background-color: gray;
+  border: none;
+}
+
+.btnclass-r {
+  background-color: green;
+}
+
+.btnclass-w {
+  background-color: red;
+}
